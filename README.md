@@ -138,6 +138,6 @@ All three labs include emergency stop functionality:
 
 ## Contributors
 
-- Duarte Pereira
-- Diogo Ferreira
-- Tiago Monteiro
+- [Duarte Pereira](https://www.linkedin.com/in/duarte-pereira-349b4b319/)
+- [Diogo Ferreira]()
+- [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
